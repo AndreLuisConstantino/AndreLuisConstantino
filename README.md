@@ -3,7 +3,7 @@
 - 🔭 Estou aberto a trabalhos!
 - 🌱 Estudante full-stack no [Senai Jandira](https://jandira.sp.senai.br)
 - 📫 Email para contato: andreluis081205@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 ---
 <div align="center">
   <a href="https://github.com/AndreLuisConstanino">
