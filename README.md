@@ -1,10 +1,12 @@
-### Eae, eu sou o André
-
-- 🔭 Estou aberto a trabalhos!
-- 🌱 Estudante full-stack no [Senai Jandira](https://jandira.sp.senai.br)
-- 📫 Email para contato: andreluis081205@gmail.com
-- 😄 Pronomes: Ele/Dele
----
+<div align="center">
+  <h1 align="center">Eae, eu sou André!</h1>
+  <ul align="center" height="500">
+    <p>🔭 Estou aberto a trabalhos!</p>
+    <p>🌱 Estudante full-stack no <a href="https://jandira.sp.senai.br">Senai Jandira</a></p>
+    <p>📫 Email para contato: andreluis081205@gmail.com</p>
+    <p>😄 Pronomes: Ele/Dele</p>
+  </ul>
+</div>
 <div align="center">
   <a href="https://github.com/AndreLuisConstanino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuisConstantino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -29,7 +31,7 @@
   <a href="https://www.instagram.com/andreluisconstanino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andreluis081205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andré-luiz-constantino-4b779124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href"https://twitter.com/andrezincre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/andrezincre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>  
 
 
