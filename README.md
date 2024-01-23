@@ -1,7 +1,7 @@
 ### Eae, eu sou o André
 
-- 🔭 Estou aberto a trabalhos!
-- 🌱 Estudante full-stack no [Senai Jandira](https://jandira.sp.senai.br)
+- 🔭 Trabalho na Tailored Resources
+- 🌱 Técnico em Desenvolvimento de Sistemas
 - 📫 Email para contato: andreluis081205@gmail.com
 - 😄 Pronomes: Ele/Dele
 ---
