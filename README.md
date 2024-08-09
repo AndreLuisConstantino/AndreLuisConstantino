@@ -1,6 +1,6 @@
 ### Eae, eu sou o André
 
-- 🔭 Trabalho na Tailored Resources
+- 🔭 Trabalho na Alphacode
 - 🌱 Técnico em Desenvolvimento de Sistemas
 - 📫 Email para contato: andreluis081205@gmail.com
 - 😄 Pronomes: Ele/Dele
